@@ -1,4 +1,3 @@
-[English](README.md)
 
 # Gemini 无损去水印工具 - [banana.ovo.re](https://banana.ovo.re)
 
